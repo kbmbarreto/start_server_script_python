@@ -26,7 +26,7 @@ executar todos os comandos "na mão", demorando cerca de 5 minutos para subir to
 <p>Após adaptar o script conforme sua necessidade, instale as dependências com o comando:</p>
 
 ````python
-pip -t requirements.txt
+pip install -r requirements.txt
 ````
 
 **Comando para rodar o script**:
